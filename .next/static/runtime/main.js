@@ -5722,7 +5722,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\github\\mamma1234\\react-next-test\\.next");
+      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\github\\mamma1234\\react-next-js\\.next");
       return error;
     }
   };
@@ -17996,7 +17996,7 @@ module.exports = function(module) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\github\mamma1234\react-next-test\node_modules\next\dist\client\next-dev */"./node_modules/next/dist/client/next-dev.js");
+module.exports = __webpack_require__(/*! C:\github\mamma1234\react-next-js\node_modules\next\dist\client\next-dev */"./node_modules/next/dist/client/next-dev.js");
 
 
 /***/ }),
